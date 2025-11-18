@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: rgb(199, 194, 247);
+}
+.首页{
+    color: #f38ee6;
+    
+}
+.公告{
+    color: #f38ea6;
+}
+.div-1{
+    width: 200px;
+    height: 140px;
+    background-color: rgb(154, 226, 255);
+    border-radius: 12px;
+    margin: 20px auto;
+}
+.div-2{
+    width: 400px;
+    height: 30px;
+    background-color: aliceblue;
+    border-radius: 4px;
+    margin: 20px auto;
+}
