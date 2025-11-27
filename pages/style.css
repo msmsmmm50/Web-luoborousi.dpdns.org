@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(238, 255, 199);
+}
+.Title{
+    text-align: center;
+}
+a{
+    color: rgb(0, 0, 0);
+}
+p{
+    text-align: center;
+}
+.man{
+    text-align: center;
+    width: 150px;
+    height: 100px;
+    background-color: rgb(144, 216, 250);
+    border-radius: 10px;
+    margin: auto;
+}
