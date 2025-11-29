@@ -10,11 +10,11 @@ a{
 p{
     text-align: center;
 }
-.man{
+.A{
     text-align: center;
     width: 400px;
     height: 400px;
     background-color: rgb(144, 216, 250);
     border-radius: 10px;
-    margin: auto;
+    margin: 10px auto;
 }
